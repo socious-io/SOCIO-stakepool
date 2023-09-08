@@ -1,8 +1,8 @@
 {
-"name":"",
-"ticker":"",
-"discordId":"",
-"pool-list":"",
-"poolMetaData":"",
-"validation":""
+"name":"Seira [SOCIO] Socious.io",
+"ticker":"SOCIO",
+"discordId":"seirayun",
+"pool-list":"true",
+"poolMetaData":"https://socious-io.github.io/SOCIO-stakepool/poolMetaData.json",
+"validation":"https://socious-io.github.io/SOCIO-stakepool/sjg-validation.json"
 }
